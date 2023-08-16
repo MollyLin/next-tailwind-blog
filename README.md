@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+[![Build status][build]][build-url]
+
+[build]: https://img.shields.io/github/actions/workflow/status/MollyLin/next-tailwind-blog/ci.yml?branch=main
+[build-url]: https://github.com/MollyLin/next-tailwind-blog/actions
+
+
 ## Demo
 [https://next-tailwind-blog-sand.vercel.app/](https://next-tailwind-blog-sand.vercel.app/)
 
